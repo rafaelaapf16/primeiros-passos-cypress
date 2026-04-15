@@ -15,6 +15,7 @@ const myInfoPage = new MyInfoPage()
 describe('Orange HRM Test', () => {
 
 
+  
   it('User Infor Update - Sucess', () => {
 
     loginPage.accessLoginPage()
