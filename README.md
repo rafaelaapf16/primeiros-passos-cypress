@@ -1,18 +1,37 @@
-# My Cypress Automation
+# 🧪 My Cypress Automation
 
-## Installation
+## 📌 About the project
+This project was created to practice test automation using Cypress, applying concepts like Page Object Model and test organization.
+
+## 🚀 Technologies
+- JavaScript
+- Cypress
+- Node.js
+
+## ✅ Automated scenarios
+- Successful login
+- Invalid login
+- User data update
+
+## 🧠 Learnings
+- Test automation with Cypress
+- Use of CSS selectors
+- Page Object Model
+- Git and GitHub versioning
+
+## ⚙️ Installation
 ```bash
 npm install
 ```
 >**NOTE:**
 >
-> it is necessary to have **node** installed
+> it is necessary to have **Node.js** installed.
 
-## Running
+## ▶️ Running
 ```bash
-# You open the Cypress UI
+# Open Cypress UI
 npx cypress open
 
-# Run the automation by command line
+# Run tests ins terminal
 npx cyress run
 ```
